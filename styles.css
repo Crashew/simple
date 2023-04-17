@@ -1,0 +1,10 @@
+/* Created By : Mohammad Al Hefel */
+
+div {
+  margin: 200px auto;
+  background-color: #787878;
+  width: 150px;
+  height: 150px;
+  box-shadow: 76px 76px 0 #ffbb00, -76px -76px 0 #f65314, 76px -76px 0 #7cbb00,
+    -76px 76px 0 #00a1f1;
+}
